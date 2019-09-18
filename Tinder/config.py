@@ -1,0 +1,12 @@
+match_head =  {'x-supported-image-formats': 'webp,jpeg',
+'persistent-device-id': '5c532b6d-e349-4e79-9d98-58457a4d3772',
+ 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36',
+  'user-session-id': '75b9a511-b5b3-480e-88b1-5b3157c61df4',
+   'Accept': 'application/json' ,
+   'app-session-time-elapsed': '77290',
+   'X-Auth-Token': '0cc79f6e-e40b-4ff5-87df-fd553ebfdd1b',
+    'user-session-time-elapsed': '437',
+    'Referer': 'https://tinder.com/',
+     'platform': 'web',
+      'app-session-id': '63d23833-617b-4bca-8f34-dcda389443ee',
+     'app-version': '1020500'}
